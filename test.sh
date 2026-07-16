@@ -7,3 +7,5 @@ echo "Hello world"
 
 # added new staff
 # local changes
+
+echo "New feature"
