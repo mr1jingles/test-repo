@@ -9,3 +9,4 @@ echo "Hello world"
 # local changes
 
 echo "New feature"
+echo "Second"
