@@ -10,4 +10,3 @@ echo "Hello world"
 
 echo "New feature"
 echo "Second"
-echo "Third"
